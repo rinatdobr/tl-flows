@@ -1,0 +1,3 @@
+[submodule "3dparty/ews-cpp"]
+	path = 3dparty/ews-cpp
+	url = https://github.com/otris/ews-cpp.git
